@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import Tilt from "react-parallax-tilt";
 // import codingGif from "../assets/download.gif";
-import resumePDF from '../assets/sachin2709resume.pdf';
+import resumePDF from '../assets/sachin2709resume1.pdf';
 
 const Hero = () => {
   return (
