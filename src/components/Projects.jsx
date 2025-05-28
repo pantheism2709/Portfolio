@@ -8,12 +8,12 @@ const projects = [
     desc: "Web tool for NGO to collect and monitor demographic data with dashboards.",
     link: "https://github.com/pantheism2709/MiracleBox",
   },
-  {
-    title: "Get Cure",
-    tech: "React, Stripe, Node.js",
-    desc: "E-pharmacy platform with secure Stripe payments and admin-only access.",
-    link: "https://github.com/pantheism2709/GetCure",
-  },
+ {
+  title: "Revolution",
+  tech: "React, Spring Boot, Stripe, Cloudinary, JWT",
+  desc: "Built a scalable full-stack e-commerce platform with decoupled frontend-backend architecture. Implemented JWT-based authentication, admin controls for product/user management, cart functionality, Stripe integration for payments, and Cloudinary for media handling.",
+  link: "https://revolution2o.netlify.app/",
+},
   {
     title: "NCP Chatbot",
     tech: "Flask, NLTK, JS",
